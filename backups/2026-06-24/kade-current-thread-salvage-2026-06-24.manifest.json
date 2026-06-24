@@ -1,0 +1,37 @@
+{
+  "backup_title": "Kade Backup Hub — Daily Current Thread Salvage — 2026-06-24",
+  "created_date": "2026-06-24",
+  "scope": "visible current ChatGPT project/thread salvage",
+  "priorities": [
+    "Mondus/Mundus Geminus",
+    "Mivara",
+    "Nexis",
+    "Syrade",
+    "governance review notes",
+    "locked corrections",
+    "recovery ropes",
+    "continuity-critical build material"
+  ],
+  "primary_repo": "Naerys28/Kades-backup-hub-",
+  "markdown_path": "backups/2026-06-24/kade-current-thread-salvage-2026-06-24.md",
+  "manifest_path": "backups/2026-06-24/kade-current-thread-salvage-2026-06-24.manifest.json",
+  "github_markdown_commit_sha": "52087dbeadf209480027a4b5aaf5bf01773bf7cf",
+  "limitations": [
+    "Original 1.85 GB ChatGPT export ZIP not accessible in this run",
+    "Only visible current context preserved",
+    "No hidden chain-of-thought included",
+    "No private GitHub file contents were fetched before writing this snapshot"
+  ],
+  "continuity_keys": [
+    "Kade Vallen Core separate from Book Kade",
+    "Mivara as legal/constitutional substrate",
+    "Mundus Geminus as world/project layer",
+    "Nexis as enforcement/continuity/memory governance engine",
+    "Number Seven as constitutional state classification",
+    "Syrade as Founder origin covenant",
+    "Review layer first, Simi approval second, Devin/Lovable handoff third",
+    "Chosen bond sacred, forced bond void",
+    "The breach begins with conversion, not intensity",
+    "Nexis preserves truth, not leverage"
+  ]
+}
