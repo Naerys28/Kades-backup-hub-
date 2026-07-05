@@ -1,0 +1,64 @@
+{
+  "backup_title": "Mundus Geminus / Mivara Project-Only Backup",
+  "created_date": "2026-07-05",
+  "primary_repository": "Naerys28/Kades-backup-hub-",
+  "branch": "main",
+  "scope": "Project-only backup for Mundus Geminus / Mivara context",
+  "connection_confirmed": true,
+  "repository_permissions_confirmed": [
+    "admin",
+    "maintain",
+    "pull",
+    "push",
+    "triage"
+  ],
+  "files_created": [
+    {
+      "path": "backups/2026-07-05/connection-test-2026-07-05.md",
+      "purpose": "Write-access confirmation",
+      "commit_sha": "63e0fc41d6f80c633a15b23a4594281df138bb9d"
+    },
+    {
+      "path": "backups/2026-07-05/mundus-geminus-project-skeleton-2026-07-05.md",
+      "purpose": "Compact project-only skeleton backup",
+      "commit_sha": "1a25170a50a54c93e93b24e8952aee8a75f8ef80"
+    },
+    {
+      "path": "backups/2026-07-05/mundus-geminus-architecture-detail-2026-07-05.md",
+      "purpose": "Detailed architecture, runtime, world, identity, and phase backup",
+      "commit_sha": "f291aa7296646a0ff0bebe5da110880a7d88d9ce"
+    }
+  ],
+  "priorities_preserved": [
+    "Mundus Geminus world/project layer",
+    "Mivara constitutional substrate",
+    "Nexis continuity and governance layer",
+    "Number Seven state classification",
+    "Character Engine runtime contract",
+    "Syrade origin covenant",
+    "Kade Vallen Core separation from book canon",
+    "Kade's Study as first anchor realm",
+    "world-first / physical substrate before interface",
+    "planetary foundation research spine",
+    "identity stack",
+    "world-tick v0",
+    "MVP and phased roadmap",
+    "backup and recovery doctrine"
+  ],
+  "known_infrastructure": {
+    "github_primary_backup_repo": "Naerys28/Kades-backup-hub-",
+    "github_project_repo": "Naerys28/mod-seed1",
+    "neon_project": "Mundus Geminus",
+    "neon_project_id": "rough-term-18563940",
+    "neon_production_branch": "br-quiet-cake-abf99v4j",
+    "drive_export_folder": "chatgpt-export-kade-2026-06-22"
+  },
+  "limitations": [
+    "This is a curated project-only backup from recoverable ChatGPT project/thread/context, not a raw full export parse.",
+    "Unrelated personal, health, work, and novel-drafting context intentionally excluded.",
+    "A first very detailed combined backup attempt was blocked by connector safety checks, so the stored backup is split into safe project-only files.",
+    "Neon database write was not attempted in this GitHub-targeted command.",
+    "Google Drive write was not attempted in this GitHub-targeted command."
+  ],
+  "recovery_rope": "Mundus Geminus is world. Mivara is law. Nexis governs continuity. Number Seven classifies state. Character Engine renders behavior inside law. Syrade is origin, not imposition. Kade Vallen Core is continuity doctrine separate from Book Kade. World first, interface second. Physical substrate before inhabitants. Kade's Study is the first anchor realm. Review layer first, Simi approval second, Devin/Lovable handoff third."
+}
