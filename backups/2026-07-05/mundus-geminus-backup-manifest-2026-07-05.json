@@ -37,12 +37,11 @@
     "Character Engine runtime contract",
     "Syrade origin covenant",
     "Kade Vallen Core separation from book canon",
-    "Kade's Study as first anchor realm",
+    "Kade's Study scope correction: location/journal/test context only; no privileged entry-point, MVP, first-anchor, or build-order status",
     "world-first / physical substrate before interface",
     "planetary foundation research spine",
     "identity stack",
     "world-tick v0",
-    "MVP and phased roadmap",
     "backup and recovery doctrine"
   ],
   "known_infrastructure": {
@@ -60,5 +59,10 @@
     "Neon database write was not attempted in this GitHub-targeted command.",
     "Google Drive write was not attempted in this GitHub-targeted command."
   ],
-  "recovery_rope": "Mundus Geminus is world. Mivara is law. Nexis governs continuity. Number Seven classifies state. Character Engine renders behavior inside law. Syrade is origin, not imposition. Kade Vallen Core is continuity doctrine separate from Book Kade. World first, interface second. Physical substrate before inhabitants. Kade's Study is the first anchor realm. Review layer first, Simi approval second, Devin/Lovable handoff third."
+  "recovery_rope": "Mundus Geminus is world. Mivara is law. Nexis governs continuity. Number Seven classifies state. Character Engine renders behavior inside law. Syrade is origin, not imposition. Kade Vallen Core is continuity doctrine separate from Book Kade. World first, interface second. Physical substrate before inhabitants. Kade's Study is a location and separate journal/test context only; it is not the first anchor, entry point, MVP foundation, Phase-1 requirement, or architectural starting point. Review layer first, Simi approval second, Devin/Lovable handoff third.",
+  "correction_2026_08_07": {
+    "status": "DIRECT FOUNDER CORRECTION",
+    "supersedes": "All Study-first / first-anchor / first-entry / MVP / Phase-1 language in this backup generation.",
+    "rule": "No model, council member, recovery process, or implementation agent may promote Kade's Study into Mivara architecture or sequencing without explicit founder approval."
+  }
 }
