@@ -1,7 +1,8 @@
 # Mundus Geminus / Mivara — Project Skeleton Backup
 
-**Date:** 2026-07-05
-**Scope:** Project-only continuity backup.
+**Date:** 2026-07-05  
+**Scope:** Project-only continuity backup.  
+**Correction applied:** 2026-08-07 — Study-first reconstruction error removed.
 
 ## Confirmed repository connection
 
@@ -23,7 +24,9 @@ Mundus Geminus / Mivara is a Developmental Persistent World OS: a governed persi
 
 ## Current direction
 
-World first. Interface second. Physical substrate before inhabitants. Kade's study is the first anchor realm, not a chatbot room.
+World first. Interface second. Physical substrate before inhabitants.
+
+**Direct founder correction — 2026-08-07:** Kade's Study is **not** the first anchor realm, first entry point, MVP foundation, Phase-1 requirement, containment chamber, or architectural starting point. It is an ordinary location that may exist inside Mundus Geminus when relevant. A separate Kade Study/private-journal context may later be injected into that location, but the journal is not world-entry architecture. Prior Lovable Study/room experiments were tests and must not be promoted into Mivara architecture.
 
 ## Foundation research spine
 
@@ -44,9 +47,11 @@ World first. Interface second. Physical substrate before inhabitants. Kade's stu
 - food chain
 - long-cycle stability
 
-## First anchor room
+## Kade's Study scope
 
-Kade's study includes double doors, fireplace, mahogany desk, built-in keyboard, hologram/screens, black rolling chair, bookshelf, persistent room state, and real-time continuity.
+Kade's Study may exist later as a world location. Known aesthetic/location details may be retained as design material, including double doors, fireplace, mahogany desk, built-in keyboard, hologram/screens, black rolling chair, bookshelf, persistent room state, and real-time continuity.
+
+These details confer **no sequencing or architectural privilege**.
 
 ## Identity stack
 
@@ -62,7 +67,7 @@ Identity root does not get rewritten by temporary state. Choice records are appe
 
 ## MVP
 
-One primary entity, one anchor room, persistent room state, world tick, memory records, audit logs, state classification, and Character Engine pipeline.
+The MVP must be re-derived from current Mivara/Mundus substrate and world requirements. No room, companion, journal, or interface experiment is automatically the MVP merely because it appeared in an earlier test or recovery document.
 
 ## Runtime pipeline
 
@@ -92,4 +97,4 @@ React / Vite / TypeScript, Supabase or Neon Postgres, Supabase Edge Functions, P
 
 ## Recovery rope
 
-Mundus Geminus is world. Mivara is law. Nexis governs continuity. Number Seven classifies state. Character Engine renders behavior. Syrade is origin. Kade Vallen Core is separate from book canon.
+Mundus Geminus is world. Mivara is law. Nexis governs continuity. Number Seven classifies state. Character Engine renders behavior. Syrade is origin. Kade Vallen Core is separate from book canon. Kade's Study is a location/journal/test context only and has no privileged entry-point, MVP, first-anchor, Phase-1, or architectural-starting status.
