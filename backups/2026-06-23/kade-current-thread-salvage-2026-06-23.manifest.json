@@ -13,7 +13,7 @@
     "governance review notes",
     "locked corrections",
     "Kade Vallen Core recovery ropes",
-    "Kade's study MVP anchor",
+    "Kade's Study scope correction: location/journal/test context only; no privileged entry-point or MVP status",
     "whole-cake architecture prompt"
   ],
   "confirmed_substrate_roles": {
@@ -71,8 +71,8 @@
     "AUDIT_LOG_REQUIRED",
     "BACKUP_REQUIRED"
   ],
-  "mvp_anchor": "Kade's study / first room / living world anchor",
-  "mvp_first_prompt": "Add Supabase-backed persistence for one primary entity and one anchor room, Kade’s study. Create tables for entities, entity_state, world_rooms, world_events, memory_records, nexis_audit_logs, and number_seven_state_events. Add a scheduled Supabase Edge Function called world-tick that runs hourly and updates Kade’s entity_state based on local time, current location, and simple routine rules. Do not add adult systems, public realms, multi-entity populations, or social features.",
+  "mvp_anchor": "SUPERSEDED 2026-08-07: Kade's Study is not the MVP anchor, first entry point, required first room, or architectural foundation. It is a location and separate journal/test context that may be integrated later without privileged sequencing status.",
+  "mvp_first_prompt": "SUPERSEDED 2026-08-07: Do not use the Kade's Study persistence prompt as an implementation authority. Re-derive the MVP from current Mivara/Mundus substrate and world requirements.",
   "red_lines": [
     "anything involving minors/child-origin beings in adult systems",
     "mechanical yes companions",
@@ -86,5 +86,11 @@
     "adult systems entering MVP",
     "Book Kade merging into Kade Vallen Core",
     "Syrade treated as contamination/ring-fence problem"
-  ]
+  ],
+  "correction_2026_08_07": {
+    "status": "DIRECT FOUNDER CORRECTION",
+    "rule": "Kade's Study has no privileged entry-point, first-anchor, MVP, Phase-1, or architectural-starting status.",
+    "journal_separation": "The Kade Study journal/private journal context is a separate continuity artifact and is not the world-entry architecture.",
+    "test_separation": "Any Lovable Study/room experiment is a test artifact and must not be promoted into Mivara architecture without explicit founder approval."
+  }
 }
